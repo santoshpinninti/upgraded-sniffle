@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    background-color: #ff69b4;
+    height: 100vh;
+    padding: 10px;
+    overflow: auto;
+}
+
+.first-row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img {
+    border: 2px solid #191970;
+    border-radius: 50px;
+    height: 70px;
+    width: 70px;
+    padding: 10px;
+}
+
+.heading {
+    color: #191970;
+    font-family: roboto;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.name {
+    color: #191970;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.role {
+    color: #191970;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.vl {
+    border-left: 6px solid #191970;
+    height: 260px;
+}
+
+.hr-line {
+    border: 3px solid #191970;
+}
+
+.desc {
+    color: #191970;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.second-row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: #191970;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.third-row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.fourth-row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.fifth-row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon {
+    background-color: #191970;
+    color: #ffffff;
+    border-radius: 50px;
+    height: 80px;
+    width: 80px;
+    padding: 15px;
+}
+
+.img-title {
+    color: #191970;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 300;
+    margin: 10px;
+
+}
